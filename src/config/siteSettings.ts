@@ -252,14 +252,14 @@ const siteConfig: SiteConfig = {
   },
 
   siteSettings: {
-    siteName: 'Riven',
-    siteTagline: 'A center for all our resources & insights',
-    siteDescription: 'A modern blog platform featuring the latest insights on technology, design, research, and business management.',
-    siteUrl: 'https://riven-blog.example.com',
+    siteName: 'Beda.id',
+    siteTagline: 'Cari Tiket Murah? Di beda.id Aja.',
+    siteDescription: 'beda.id adalah website yang menyajikan berbagai promo tiket transportasi seperti bus, kereta, pesawat, dan kapal dalam satu tempat. Pengguna dapat dengan mudah menemukan penawaran terbaik yang sedang berlangsung, membandingkan harga, serta mendapatkan informasi promo terbaru untuk perjalanan yang lebih hemat dan praktis. Website ini dirancang sederhana, cepat, dan selalu update agar memudahkan semua orang dalam mencari tiket dengan harga terbaik.',
+    siteUrl: 'https://beda.id',
     logo: {
-      text: 'Riven',
+      text: 'Beda.id',
       showIcon: true,
-      iconText: 'R',
+      iconText: 'B',
     },
     seo: {
       defaultTitle: 'beda.id — Temukan Promo Tiket Transportasi Terlengkap: Bus, Kereta, Pesawat & Kapal',

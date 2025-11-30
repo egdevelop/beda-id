@@ -178,11 +178,11 @@ export interface SiteConfig {
 const siteConfig: SiteConfig = {
   designTokens: {
     colors: {
-      primary: '#E11D48',
-      primaryHover: '#BE123C',
+      primary: '#ff7300',
+      primaryHover: '#ff7300',
       primaryLight: '#FFF1F2',
       secondary: '#1F2937',
-      accent: '#F43F5E',
+      accent: '#ff9d4d',
       background: '#F9FAFB',
       surface: '#FFFFFF',
       text: {
